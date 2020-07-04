@@ -40,6 +40,7 @@ while checkseq == 1:
 
     if ldiag == True and rdiag == True:
         print ('Generated Sequence', rseq)
+        print("Display of the Sequence in 8 * 8")
         print(x)
         checkseq = 0
         break
